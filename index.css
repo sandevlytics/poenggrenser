@@ -85,6 +85,7 @@
   .merk2{
     font-size: 12px;
     text-align: center;
+    font-weight: lighter;
   }
   @media screen and (max-width: 700px){
     .merk2{
